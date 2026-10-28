@@ -1,4 +1,4 @@
-# Ex. No:1b 			Study of Client Server Chat Applications
+<img width="1342" height="450" alt="image" src="https://github.com/user-attachments/assets/e86a06e6-25c7-496e-8a80-32c39fc3e101" /># Ex. No:1b 			Study of Client Server Chat Applications
 ## NAME : JEDIDIAH M D
 ## REGISTER NO : 2122252301116
 
@@ -114,7 +114,7 @@ c.close()
 
 ## Output:
 
-![Uploading image.png…]()
+<img width="1332" height="435" alt="image" src="https://github.com/user-attachments/assets/5323e25f-d903-4aa1-9928-40fd3f3d9e29" />
 
 
 ## Result:
