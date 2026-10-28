@@ -104,7 +104,7 @@ print("server waiting for connection...")
 c,addr=s.accept()
 print("Client Address:",addr)
 now=datetime.now()
-c.send(now.strftime("%d/%n/%Y %H:%M:%S").encode())
+c.send(now.strftime("%d/%m/%Y %H:%M:%S").encode())
 ack=c.recv(1024).decode()
 if ack:
     print(ack)
@@ -114,7 +114,7 @@ c.close()
 
 ## Output:
 
-<img width="1357" height="422" alt="image" src="https://github.com/user-attachments/assets/0f54b6d2-0276-477c-bd92-80144249f161" />
+![Uploading image.png…]()
 
 
 ## Result:
